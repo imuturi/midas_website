@@ -5,7 +5,7 @@ export default function Nav({ setMobileToggle }) {
   return (
     <ul className="cs_nav_list fw-medium">
       <li>
-        <Link to="/home3">Home</Link>
+        <Link to="/">Home</Link>
       </li>
       <li className="menu-item-has-children">
         <Link to="#">Pages</Link>

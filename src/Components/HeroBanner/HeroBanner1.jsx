@@ -64,7 +64,7 @@ const HeroBanner1 = ({subtitle,title,content,btnname,btnurl,btntwo,btn2url,cusim
                                     <div className="fancy-box-wrapper style1">
                                         <div className="fancy-box style1 wow fadeInUp" data-wow-delay=".2s">
                                             <div className="item">
-                                                <img src={cusimg} alt="thumb" />
+                                                <img src={cusimg} alt="" />
                                             </div>
                                             <div className="item">
                                                 <h6>{cusnumber}</h6>

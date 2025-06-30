@@ -7,7 +7,7 @@ const HowWork3 = () => {
         <div className="container">
              <div className="section-title mb-60">
                     <SectionTitle
-                        SubTitle="How It Work"
+                        SubTitle="How It Works"
                         Title="Our Working Process"
                     ></SectionTitle>
              </div>

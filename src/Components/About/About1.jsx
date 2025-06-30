@@ -20,10 +20,10 @@ const About1 = ({img1,img2,subtitle,title,content,FeatureList,btnname,btnurl}) =
                                     <div className="thumbShape4 d-none d-xxl-block cir36"><img
                                             src="/assets/images/shape/aboutThumbShape1_4.png" alt="shape" /></div>
                                     <div className="main-thumb">
-                                        <img src={img1} alt="thumb" />
+                                        <img src={img1} alt="" />
                                     </div>
                                     <div className="absolute-thumb float-bob-x">
-                                        <img src={img2} alt="thumb" />
+                                        <img src={img2} alt="" />
                                     </div>
     
                                 </div>

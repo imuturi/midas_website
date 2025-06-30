@@ -1,26 +1,26 @@
 [
-  {  
+  {
     "title": "Looking for a solution to boost productivity?",
-    "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly"
+    "desc": "Midas ERP automates key business processes and centralizes your data, so your team can focus on what matters — results."
   },
   {
     "title": "Need an easy way to manage your projects?",
-    "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly"
+    "desc": "Track milestones, assign tasks, and control budgets effortlessly with Midas' integrated Project Management module."
   },
   {
-     "title": "Seeking a user-friendly solution for your team?",
-    "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly"
-  },
-  {  
-    "title": "Looking for a solution to boost productivity?",
-    "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly"
+    "title": "Seeking a user-friendly ERP system for your team?",
+    "desc": "Our intuitive interface ensures quick adoption with minimal training. Your team will feel at home on day one."
   },
   {
-    "title": "Need an easy way to manage your projects?",
-    "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly"
+    "title": "Want full visibility into your business operations?",
+    "desc": "From real-time dashboards to advanced reports, Midas gives you the insights needed to make smart decisions fast."
   },
   {
-     "title": "Seeking a user-friendly solution for your team?",
-    "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly"
-  }  
+    "title": "Worried about data security and compliance?",
+    "desc": "With cloud hosting, encryption, and regular backups, Midas keeps your data safe and compliant with global standards."
+  },
+  {
+    "title": "Planning to scale your operations?",
+    "desc": "Midas ERP is modular and scalable — activate new modules or users as your team and operations grow."
+  }
 ]

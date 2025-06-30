@@ -1,22 +1,22 @@
 [
   {
     "number": "01",
-    "title": "Research Project",
-    "desc": "There are many varations of passages of Loreum available, but the majority have suffered alteration" 
+    "title": "Understand Business Needs",
+    "desc": "We assess your operational challenges and goals to recommend the right ERP modules for your team."
   },
   {
     "number": "02",
-    "title": "Start Optimize",
-    "desc": "There are many varations of passages of Loreum available, but the majority have suffered alteration" 
+    "title": "Customize & Integrate",
+    "desc": "Our experts tailor Midas ERP to fit your workflows and ensure smooth integration with your existing systems."
   },
   {
     "number": "03",
-    "title": "Find Ideas",
-    "desc": "There are many varations of passages of Loreum available, but the majority have suffered alteration" 
+    "title": "Train & Onboard Users",
+    "desc": "We provide personalized training to equip your team with the skills needed to use the platform effectively."
   },
   {
     "number": "04",
-    "title": "Reach Target",
-    "desc": "There are many varations of passages of Loreum available, but the majority have suffered alteration" 
-  }    
+    "title": "Go Live & Scale",
+    "desc": "After deployment, we provide 24/7 support and help you scale features as your business evolves."
+  }
 ]

@@ -1,20 +1,20 @@
 [
   {
     "img": "/assets/images/icon/04.svg",
-    "title": "Sales automation",
-    "desc": "This title is versatile and can adapted to fit the specific tone and branding of your website quality.",
+    "title": "Accounting & Finance",
+    "desc": "Automate reporting, ensure compliance, and gain real-time insights into your cash flow with robust financial tools.",
     "addclass": "feature-provide-box-items style-2"
   },
   {
     "img": "/assets/images/icon/05.svg",
-    "title": "Contact management",
-    "desc": "This title is versatile and can adapted to fit the specific tone and branding of your website quality.",
+    "title": "Customer Relationship Management",
+    "desc": "Track leads, manage customer interactions, and enhance satisfaction through a unified CRM system.",
     "addclass": "feature-provide-box-items"
   },
   {
     "img": "/assets/images/icon/06.svg",
-    "title": "Task Management",
-    "desc": "This title is versatile and can adapted to fit the specific tone and branding of your website quality.",
+    "title": "HR & Payroll",
+    "desc": "Handle recruitment, onboarding, performance reviews, and salary processing — all in one seamless module.",
     "addclass": "feature-provide-box-items style-2"
-  } 
+  }
 ]

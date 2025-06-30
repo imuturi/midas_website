@@ -13,71 +13,65 @@ import Pricing1 from "../Components/Pricing/Pricing1";
 import Testimonial from "../Components/Testimonial/Testimonial";
 
 const Home = () => {
-    return (
-        <div>
-            <HeroBanner1
-                subtitle="<span>News!</span>Find Your Solution"
-                title="We Develop Websites, Applications, and Brands."
-                content="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum,"
-                btnname="Get Started Now"
-                btnurl="/contact"
-                btntwo="Learn More"
-                btn2url="/about"
-                cusimg="/assets/images/intro/introProfileThumb1_1.png"
-                cusnumber="2,291"
-                cuscontent="Happy Customers"
-                rating="4.8/5"
-                ratingcon="Rating"
-                img="/assets/images/intro/introThumb1_1.png"
-            ></HeroBanner1>
-            <Brand1></Brand1>
-            <About1
-                img1="/assets/images/about/aboutThumb1_1.png"
-                img2="/assets/images/about/aboutThumb1_2.png"
-                subtitle="About Our App"
-                title="Simple Reports & Analytics Backdown As it"
-                content="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use"
-                FeatureList={[
-                    "With our Technological and Marketing Solutions.",
-                    "We are trusted all over the world.",
-                    "Start Your 14 Days Free Trials Today!",
-                ]}                
-                btnname="Discover More"
-                btnurl="/about"
-            ></About1>
-            <HowWork></HowWork>
-            <Choose1
-                subtitle="App Advantage"
-                title="Get Benefit By Using Trending Apps"
-                content="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly"
-                FeatureList={[
-                    "Friendly Design",
-                    "SEO Optimized",
-                ]} 
-                FeatureList2={[
-                    "Cloud Storage",
-                    "Strong Security",
-                ]}                 
-                btnname="Download App"
-                btnurl="/about"
-            ></Choose1>
-            <Feature1></Feature1>
-            <Counter1></Counter1>
-            <Faq1></Faq1>
-            <Testimonial></Testimonial>
-            <Feature2></Feature2>
-            <Pricing1></Pricing1>
-            <Cta1
-                subtitle="Our App"
-                title="Download our app and start your free trail to get started today!"
-                content="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised"
-                btnurl1="https://play.google.com/store"
-                btnurl2="https://www.apple.com/store"
-                img="/assets/images/cta/ctaThumb1_1.png"
-            ></Cta1>
-            <Blog1></Blog1>
-        </div>
-    );
+  return (
+    <div>
+      <HeroBanner1
+        subtitle="<span>ERP Made Simple</span> for Growing Businesses"
+        title="Smart, Scalable & Cloud-Based ERP Solutions"
+        content="From Accounting to HR and Payroll, Manufacturing to Sales — Midas Software delivers everything you need to streamline operations, improve decisions, and scale with confidence."
+        btnname="Request a Demo"
+        btnurl="/contact"
+        btntwo="Learn More"
+        btn2url="/about"
+        // cusimg="/assets/images/intro/introProfileThumb1_1.png"
+        cusnumber="2,291"
+        cuscontent="Happy Customers"
+        rating="4.8/5"
+        ratingcon="Rating"
+        img="https://demo.3digit.agency/niotech/wp-content/uploads/2024/12/introThumbShape1_1.png"
+      ></HeroBanner1>
+      <Brand1></Brand1>
+      <About1
+        img1=""
+        img2=""
+        subtitle="About Midas Software"
+        title="Transform the Way Your Business Operates"
+        content="We design intuitive ERP systems that empower businesses with real-time visibility, automated processes, and integrated department workflows. Backed by expert support and cloud flexibility."
+        FeatureList={[
+          "Modular & Customizable ERP Suite",
+          "Trusted by SMEs and Enterprises",
+          "Expert Support & Seamless Onboarding",
+        ]}
+        btnname="Discover More"
+        btnurl="/about"
+      ></About1>
+      <HowWork></HowWork>
+      <Choose1
+        subtitle="Why Choose Midas?"
+        title="All-in-One ERP That Scales With You"
+        content="Whether you're managing finance, teams, production, or inventory — Midas keeps everything in sync so you can focus on growth, not complexity."
+        FeatureList={["Cloud-Based & Secure", "Customizable Modules"]}
+        FeatureList2={["24/7 Expert Support", "User-Friendly Interface"]}
+        btnname=""
+        btnurl="/about"
+      ></Choose1>
+      <Feature1></Feature1>
+      <Counter1></Counter1>
+      <Faq1></Faq1>
+      <Testimonial></Testimonial>
+      <Feature2></Feature2>
+      {/* <Pricing1></Pricing1> */}
+      {/* <Cta1
+        subtitle="Our App"
+        title="Download our app and start your free trail to get started today!"
+        content="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised"
+        btnurl1="https://play.google.com/store"
+        btnurl2="https://www.apple.com/store"
+        img="/assets/images/cta/ctaThumb1_1.png"
+      ></Cta1> */}
+      {/* <Blog1></Blog1> */}
+    </div>
+  );
 };
 
 export default Home;
