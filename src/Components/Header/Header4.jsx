@@ -40,9 +40,9 @@ export default function Header4({ variant }) {
         <div className="container">
           <div className="cs_main_header_in">
             <div className="cs_main_header_left">
-            <Link className="cs_site_branding" to="/">
+            {/* <Link className="cs_site_branding" to="/">
                 <img src="/assets/images/logo/logo.svg" alt="Logo" />
-              </Link>
+              </Link> */}
               </div>
               <div className="cs_main_header_center">
                 <div className="cs_nav cs_primary_font fw-medium">
