@@ -1,6 +1,4 @@
-import {
-    createBrowserRouter,
-  } from "react-router-dom";
+import { createBrowserRouter } from "react-router-dom";
 import Main from "../Layout/Main";
 import AboutPage from "../Pages/AboutPage";
 import Home from "../Pages/Home";
@@ -23,21 +21,25 @@ import BlogStandardPage from "../Pages/BlogStandardPage";
 import BlogLeftPage from "../Pages/BlogLeftPage";
 import BlogDetaillsPage from "../Pages/BlogDetaillsPage";
 import FaqPage from "../Pages/FaqPage";
-
+import ProductsPage from "../Pages/ProductsPage";
 
 export const router = createBrowserRouter([
-    {
-      path: "/",
-      element: <Layout4></Layout4>,
-      children: [
-        {
-            path: "/about",
-            element: <AboutPage></AboutPage>,
-        },   
-        {
-          path: "/service",
-          element: <ServicePage></ServicePage>,
-      }, 
+  {
+    path: "/",
+    element: <Layout4></Layout4>,
+    children: [
+      {
+        path: "/about",
+        element: <AboutPage></AboutPage>,
+      },
+      {
+        path: "/products",
+        element: <ProductsPage></ProductsPage>
+      },
+      {
+        path: "/service",
+        element: <ServicePage></ServicePage>,
+      },
       {
         path: "/service/service-details",
         element: <ServiceDetailPage></ServiceDetailPage>,
@@ -45,15 +47,15 @@ export const router = createBrowserRouter([
       {
         path: "/pricing",
         element: <PricingPage></PricingPage>,
-      },    
+      },
       {
         path: "/project",
         element: <ProjectPage1></ProjectPage1>,
-      },      
+      },
       {
         path: "/project2",
         element: <ProjectPage2></ProjectPage2>,
-      },       
+      },
       {
         path: "/project/project-details",
         element: <ProjectDetailPage></ProjectDetailPage>,
@@ -90,37 +92,36 @@ export const router = createBrowserRouter([
         path: "/contact",
         element: <ContactPage></ContactPage>,
       },
-
-      ],
-    }, 
-    {
-      path: '/',
-      element: <Main></Main>,
-      children: [
-        {
-          index: true,
-          element: <Home></Home>,
-        },                           
-      ],
-    }, 
-    {
-      path: 'home2',
-      element: <Layout2></Layout2>,
-      children: [
-        {
-          index: true,
-          element: <Home2></Home2>,
-        },                           
-      ],
-    }, 
-    {
-      path: 'home3',
-      element: <Layout3></Layout3> ,
-      children: [
-        {
-          index: true,
-          element: <Home3></Home3>,
-        },                           
-      ],
-    },             
-  ]);
+    ],
+  },
+  {
+    path: "/",
+    element: <Main></Main>,
+    children: [
+      {
+        index: true,
+        element: <Home></Home>,
+      },
+    ],
+  },
+  {
+    path: "home2",
+    element: <Layout2></Layout2>,
+    children: [
+      {
+        index: true,
+        element: <Home2></Home2>,
+      },
+    ],
+  },
+  {
+    path: "home3",
+    element: <Layout3></Layout3>,
+    children: [
+      {
+        index: true,
+        element: <Home3></Home3>,
+      },
+    ],
+  },
+]);

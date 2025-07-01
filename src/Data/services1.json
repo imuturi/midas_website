@@ -1,32 +1,32 @@
 [
   {
     "icon": "/assets/images/icon/serviceIcon3_1.svg",
-    "title": "Software Features",
-    "desc": "Access powerful ERP modules including finance, inventory, HR, and CRM — all in one integrated system."
+    "title": "Cloud-Based Solutions",
+    "desc": "Access our robust ERP software from any device, anywhere, with zero on-premise infrastructure and automatic updates."
   },
   {
     "icon": "/assets/images/icon/serviceIcon3_2.svg",
-    "title": "Subscription Plans",
-    "desc": "Choose flexible pricing tailored to your business size and scale — monthly or annual plans available."
+    "title": "Customization & Integration",
+    "desc": "Tailor our software to fit your business needs with flexible customization and seamless integration with existing systems."
   },
   {
     "icon": "/assets/images/icon/serviceIcon3_3.svg",
-    "title": "Customization Option",
-    "desc": "Easily tailor workflows, reports, and user roles to fit your organization's unique operational needs."
+    "title": "Ongoing Support & Maintenance",
+    "desc": "Dedicated customer support team ready to assist with troubleshooting, training, and regular software updates with 24/7 av."
   },
   {
     "icon": "/assets/images/icon/serviceIcon3_5.svg",
-    "title": "Choose an App",
-    "desc": "Select and deploy only the modules you need — from inventory to payroll — for a streamlined experience."
+    "title": "Scalable Solutions",
+    "desc": "Our ERP modules grow with your business — add new functionalities and users as needed without disrupting operations."
   },
   {
     "icon": "/assets/images/icon/serviceIcon3_5.svg",
-    "title": "Clean Modern Code",
-    "desc": "Built with maintainable, scalable code — ensuring smooth updates, integrations, and long-term stability."
+    "title": "Security & Compliance",
+    "desc": "Top-tier security measures meeting industry standards and ensuring compliance with global regulations for data protection."
   },
   {
     "icon": "/assets/images/icon/serviceIcon3_6.svg",
-    "title": "User Interactive",
-    "desc": "Enjoy a clean, intuitive interface designed for teams across departments to navigate with ease."
+    "title": "User Training & Onboarding",
+    "desc": "Personalized onboarding and comprehensive training sessions to ensure your team maximizes our software's potential."
   }
 ]

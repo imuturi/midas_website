@@ -1,0 +1,72 @@
+[
+  {
+    "icon": "/assets/images/icon/serviceIcon3_1.svg",
+    "title": "Accounting",
+    "desc": "Streamline financial operations with automated reporting, real-time analytics, and complete visibility into your cash flow."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_2.svg",
+    "title": "Procurement",
+    "desc": "Effortlessly manage supplier relationships, track orders, and optimize purchasing processes for cost savings and timely deliveries."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_3.svg",
+    "title": "Sales",
+    "desc": "Boost your sales performance with real-time insights, order management, and streamlined processes to transform leads into customers."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_4.svg",
+    "title": "Customer Relationship Management",
+    "desc": "Elevate customer interactions with a 360-degree view of relationships, lead management, and personalized experiences."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_5.svg",
+    "title": "Stock Management",
+    "desc": "Optimize inventory levels with real-time tracking, automatic stock updates, and precise forecasting to maximize profitability."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_6.svg",
+    "title": "Project Management",
+    "desc": "Collaborate seamlessly, track milestones, and manage budgets all in one place to deliver projects on time and within budget."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_1.svg",
+    "title": "Assets",
+    "desc": "Gain full control over your assets' lifecycle with tracking, maintenance, and performance optimization to reduce costs."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_2.svg",
+    "title": "HR",
+    "desc": "Simplify HR management with powerful tools for recruitment, onboarding, performance tracking, and employee development."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_3.svg",
+    "title": "Payroll",
+    "desc": "Streamline payroll processing with automated calculations, tax compliance, and timely payments for accuracy and efficiency."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_4.svg",
+    "title": "Manufacturing",
+    "desc": "Optimize production processes with real-time monitoring, resource management, and workflow automation for maximum efficiency."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_5.svg",
+    "title": "Point of Sale (POS)",
+    "desc": "Deliver seamless customer experiences with an intuitive, fast, and secure point of sale system for real-time transactions."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_6.svg",
+    "title": "Quality Management",
+    "desc": "Ensure consistent product quality with automated quality checks, defect tracking, and compliance reporting."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_1.svg",
+    "title": "Real-Time Analytics & Reporting",
+    "desc": "Make data-driven decisions with real-time insights and detailed reports to monitor key metrics and forecast trends."
+  },
+  {
+    "icon": "/assets/images/icon/serviceIcon3_2.svg",
+    "title": "Support",
+    "desc": "Enhance customer satisfaction with an integrated support module that tracks tickets, manages inquiries, and provides real-time solutions."
+  }
+]
