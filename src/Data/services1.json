@@ -2,31 +2,31 @@
   {
     "icon": "/assets/images/icon/serviceIcon3_1.svg",
     "title": "Software Features",
-    "desc": "There are many variations of passages of Lorem Ipsum available, but majority have suffered alteration in some form"   
+    "desc": "Access powerful ERP modules including finance, inventory, HR, and CRM — all in one integrated system."
   },
   {
     "icon": "/assets/images/icon/serviceIcon3_2.svg",
     "title": "Subscription Plans",
-    "desc": "There are many variations of passages of Lorem Ipsum available, but majority have suffered alteration in some form"   
+    "desc": "Choose flexible pricing tailored to your business size and scale — monthly or annual plans available."
   },
   {
     "icon": "/assets/images/icon/serviceIcon3_3.svg",
     "title": "Customization Option",
-    "desc": "There are many variations of passages of Lorem Ipsum available, but majority have suffered alteration in some form"  
+    "desc": "Easily tailor workflows, reports, and user roles to fit your organization's unique operational needs."
   },
   {
     "icon": "/assets/images/icon/serviceIcon3_5.svg",
-    "title": "Choose a App",
-    "desc": "There are many variations of passages of Lorem Ipsum available, but majority have suffered alteration in some form"  
+    "title": "Choose an App",
+    "desc": "Select and deploy only the modules you need — from inventory to payroll — for a streamlined experience."
   },
   {
     "icon": "/assets/images/icon/serviceIcon3_5.svg",
     "title": "Clean Modern Code",
-    "desc": "There are many variations of passages of Lorem Ipsum available, but majority have suffered alteration in some form"
+    "desc": "Built with maintainable, scalable code — ensuring smooth updates, integrations, and long-term stability."
   },
   {
     "icon": "/assets/images/icon/serviceIcon3_6.svg",
     "title": "User Interactive",
-    "desc": "There are many variations of passages of Lorem Ipsum available, but majority have suffered alteration in some form"   
-  }    
+    "desc": "Enjoy a clean, intuitive interface designed for teams across departments to navigate with ease."
+  }
 ]

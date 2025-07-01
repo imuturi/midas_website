@@ -47,7 +47,7 @@ const Testimonial = () => {
                         <div className="container">
                             <div className="section-title text-center mxw-685 mx-auto">
                                 <SectionTitle
-                                        SubTitle="Testimonial"
+                                        SubTitle="Testimonials"
                                         Title="What our clients say?"
                                 ></SectionTitle>                                
                             </div>
