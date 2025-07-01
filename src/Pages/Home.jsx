@@ -13,9 +13,9 @@ const Home = () => {
   return (
     <div>
       <HeroBanner1
-        subtitle="<span>ERP Made Simple</span> for Growing Businesses"
-        title="Smart, Scalable & Cloud-Based ERP Solutions"
-        content="From Accounting to HR and Payroll, Manufacturing to Sales — Midas Software delivers everything you need to streamline operations, improve decisions, and scale with confidence."
+        subtitle="<span>All-in-One ERP</span> to Power Your Business"
+        title="Transform How You Work with Smart, Scalable Solutions"
+        content="At Midas Software, we help businesses automate workflows, improve decision-making, and grow faster through a customizable, cloud-based ERP platform trusted across industries."
         btnname="Request a Demo"
         btnurl="/contact"
         btntwo="Learn More"
@@ -24,34 +24,45 @@ const Home = () => {
         cusnumber="2,291"
         cuscontent="Happy Customers"
         rating="4.8/5"
-        ratingcon="Rating"
+        ratingcon="Customer Rating"
         img="/assets/images/intro/introThumb1_1.png"
-      ></HeroBanner1>
+      />
+
       <Brand1></Brand1>
       <About1
-        img1="/assets/images/about/aboutThumb2_1.png"
+        img1="/assets/images/about/aboutThumb1_1.png"
         img2="/assets/images/about/aboutThumb1_2.png"
         subtitle="About Midas Software"
-        title="Transform the Way Your Business Operates"
-        content="We design intuitive ERP systems that empower businesses with real-time visibility, automated processes, and integrated department workflows. Backed by expert support and cloud flexibility."
+        title="Your Trusted Partner in Business Transformation"
+        content="We are dedicated to transforming how businesses operate through innovative, easy-to-use ERP solutions. With deep understanding of organizational challenges, we design integrated systems that streamline operations, enhance decision-making, and boost productivity across all departments - from startups to established enterprises."
         FeatureList={[
-          "Modular & Customizable ERP Suite",
-          "Trusted by SMEs and Enterprises",
-          "Expert Support & Seamless Onboarding",
+          "14+ integrated modules for all business functions",
+          "Cloud-based SaaS with 24/7 accessibility",
+          "Scalable solutions that grow with your business",
+          "Expert customization and integration support",
+          "Top-tier security with industry compliance",
         ]}
-        btnname="Discover More"
-        btnurl="/about"
-      ></About1>
+        btnname="Explore Our Solutions"
+        btnurl="/products"
+      />
+
       <HowWork></HowWork>
       <Choose1
         subtitle="Why Choose Midas?"
-        title="All-in-One ERP That Scales With You"
-        content="Whether you're managing finance, teams, production, or inventory — Midas keeps everything in sync so you can focus on growth, not complexity."
-        FeatureList={["Cloud-Based & Secure", "Customizable Modules"]}
-        FeatureList2={["24/7 Expert Support", "User-Friendly Interface"]}
-        btnname="Learn More"
-        btnurl="/about"
-      ></Choose1>
+        title="14+ Integrated Modules, Backed by Expert Support"
+        content="Midas Software delivers a complete business transformation platform with modules spanning every department from Accounting to Manufacturing, HR to Quality Management  all powered by secure, scalable cloud infrastructure designed for sustainable growth."
+        FeatureList={[
+          "Accounting, Sales, CRM, HR, Payroll & Manufacturing",
+          "Point of Sale, Procurement, Stock & Quality Management",
+        ]}
+        FeatureList2={[
+          "Cloud-Based SaaS with Real-Time Analytics & Reporting",
+          "Custom Integrations, User Training & 24/7 Support",
+        ]}
+        btnname="Explore All Modules"
+        btnurl="/products"
+      />
+
       <Feature1></Feature1>
       <Counter1></Counter1>
       <Faq1></Faq1>

@@ -10,24 +10,25 @@ const Feature2 = () => {
               <div className="feature-content">
                 <div className="section-title">
                   <div className="subtitle wow fadeInUp" data-wow-delay=".2s">
-                    ERP Highlights{" "}
+                    14+ ERP Modules{" "}
                     <img src="/assets/images/icon/fireIcon.svg" alt="icon" />
                   </div>
                   <h2 className="title wow fadeInUp" data-wow-delay=".4s">
-                    Empower Your Business With Smart, Scalable ERP Tools
+                    Complete Business Management in One Integrated Platform
                   </h2>
                   <p className="section-desc wow fadeInUp" data-wow-delay=".6s">
-                    From finance and HR to inventory and CRM, Midas brings your
-                    entire business together under one secure, customizable
-                    cloud platform.
+                    From Accounting and Manufacturing to HR and Quality
+                    Management, Midas unifies your entire operation under one
+                    secure, scalable cloud platform designed for sustainable
+                    growth.
                   </p>
                 </div>
                 <Link
                   className="theme-btn wow fadeInUp"
                   data-wow-delay=".2s"
-                  to="/features"
+                  to="/products"
                 >
-                  Explore Features
+                  View All Modules
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="16"
@@ -59,10 +60,10 @@ const Feature2 = () => {
                     data-wow-delay=".2s"
                   >
                     <div className="content">
-                      <h5>Integrated Accounting</h5>
+                      <h5>Smart Accounting Suite</h5>
                       <p className="text">
-                        Automated reports, real-time analytics, and full cash
-                        flow visibility.
+                        Automated financial reporting, compliance tracking, and
+                        complete cash flow visibility.
                       </p>
                     </div>
                     <div className="icon">
@@ -106,10 +107,10 @@ const Feature2 = () => {
                     data-wow-delay=".6s"
                   >
                     <div className="content">
-                      <h5>HR & Payroll Automation</h5>
+                      <h5>Complete HR & Payroll</h5>
                       <p className="text">
-                        Simplify recruitment, onboarding, and payroll with
-                        built-in compliance.
+                        End-to-end workforce management from recruitment to
+                        payroll with built-in compliance.
                       </p>
                     </div>
                     <div className="icon">
@@ -135,8 +136,8 @@ const Feature2 = () => {
                     data-wow-delay=".6s"
                   >
                     <div className="content">
-                      <span className="day">Updated</span>
-                      <span className="time ms-1">5 min ago</span>
+                      <span className="day">Processing</span>
+                      <span className="time ms-1">2 min ago</span>
                     </div>
                     <div className="shape">
                       <img
@@ -153,10 +154,10 @@ const Feature2 = () => {
                 >
                   <div className="feature-box-header">
                     <div className="content">
-                      <h5>Real-Time Analytics</h5>
+                      <h5>Business Intelligence Hub</h5>
                       <p className="text">
-                        Track performance across departments with dashboards and
-                        insights.
+                        Real-time dashboards, automated reporting, and
+                        predictive analytics for smarter decisions.
                       </p>
                     </div>
                     <div className="icon">
@@ -179,8 +180,8 @@ const Feature2 = () => {
                   </div>
                   <div className="feature-box-footer">
                     <div className="content">
-                      <span className="day">Live</span>
-                      <span className="time ms-1">Syncing...</span>
+                      <span className="day">Live Data</span>
+                      <span className="time ms-1">Streaming...</span>
                     </div>
                     <div className="shape">
                       <img

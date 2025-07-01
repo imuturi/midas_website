@@ -1,6 +1,5 @@
 import FeatureCard from "../Card/FeatureCard";
 import SectionTitle from "../Common/SectionTitle";
-
 const Feature1 = () => {
   return (
     <section className="wcu-section section-padding fix">
@@ -12,7 +11,7 @@ const Feature1 = () => {
           >
             <SectionTitle
               SubTitle="Why Choose Midas ERP"
-              Title="Trusted by Startups, SMEs & Enterprises"
+              Title="Trusted by 1,500+ Businesses Worldwide"
             ></SectionTitle>
           </div>
           <div className="wcu-wrapper style1">
@@ -21,18 +20,18 @@ const Feature1 = () => {
                 <div className="wcu-content">
                   <FeatureCard
                     img="/assets/images/icon/wcuIcon1_1.svg"
-                    title="Modular & Scalable"
-                    content="Choose only the ERP modules you need, and scale seamlessly as your business grows."
+                    title="14+ Integrated Modules"
+                    content="From Accounting to Manufacturing, choose only what you need and expand as you grow."
                   ></FeatureCard>
                   <FeatureCard
                     img="/assets/images/icon/wcuIcon1_2.svg"
-                    title="Cloud-Based Access"
-                    content="Access your ERP securely from anywhere — no infrastructure required."
+                    title="Cloud-Based SaaS Platform"
+                    content="Access your ERP securely from anywhere with automatic updates and zero maintenance."
                   ></FeatureCard>
                   <FeatureCard
                     img="/assets/images/icon/wcuIcon1_3.svg"
-                    title="Custom Integrations"
-                    content="Easily integrate with your existing tools and platforms for a unified experience."
+                    title="Seamless Integrations"
+                    content="Connect with existing systems effortlessly for a unified, streamlined workflow."
                   ></FeatureCard>
                 </div>
               </div>
@@ -42,10 +41,7 @@ const Feature1 = () => {
                     className="main-thumb wow bounceInUp"
                     data-wow-delay=".6s"
                   >
-                    <img
-                      src="/assets/images/wcu/wcuThumb1_1.png"
-                      alt="thumb"
-                    />
+                    <img src="/assets/images/wcu/wcuThumb1_1.png" alt="thumb" />
                   </div>
                   <div className="shape">
                     <img
@@ -59,18 +55,18 @@ const Feature1 = () => {
                 <div className="wcu-content">
                   <FeatureCard
                     img="/assets/images/icon/wcuIcon1_4.svg"
-                    title="24/7 Expert Support"
-                    content="Our dedicated support team ensures smooth operations and rapid resolution of issues."
+                    title="Expert Support & Training"
+                    content="Comprehensive onboarding, user training, and 24/7 support to ensure your success."
                   ></FeatureCard>
                   <FeatureCard
                     img="/assets/images/icon/wcuIcon1_5.svg"
                     title="Real-Time Analytics"
-                    content="Monitor performance, track KPIs, and make informed decisions with live dashboards."
+                    content="Make data-driven decisions with live dashboards, automated reporting, and trend forecasting."
                   ></FeatureCard>
                   <FeatureCard
                     img="/assets/images/icon/wcuIcon1_6.svg"
-                    title="Data Security & Compliance"
-                    content="Your data is protected with enterprise-grade security and global compliance standards."
+                    title="Enterprise-Grade Security"
+                    content="Industry-compliant data protection with automated backups and top-tier security measures."
                   ></FeatureCard>
                 </div>
               </div>
@@ -81,5 +77,4 @@ const Feature1 = () => {
     </section>
   );
 };
-
 export default Feature1;

@@ -25,7 +25,7 @@ const Faq1 = () => {
 
   const FaqContent = {
     Content:
-      "Got questions about implementation, customization, or support? We’ve answered some of the most common concerns about Midas ERP below.",
+      "Have questions about our ERP modules, implementation timeline, or ongoing support? Find answers to common questions about Midas Software's comprehensive business solutions below.",
     img1: "/assets/images/faq/faqThumb1_2.png",
     img2: "/assets/images/faq/faqThumb1_1.png",
   };
@@ -94,10 +94,7 @@ const Faq1 = () => {
                   alt="thumb"
                 />
                 <div className="absolute-thumb float-bob-x">
-                  <img
-                    src={FaqContent.img2}
-                    alt="thumb"
-                  />
+                  <img src={FaqContent.img2} alt="thumb" />
                 </div>
               </div>
             </div>
