@@ -43,8 +43,8 @@ const Feature1 = () => {
                     data-wow-delay=".6s"
                   >
                     <img
-                      // src="/assets/images/wcu/wcuThumb1_1.png"
-                      alt=""
+                      src="/assets/images/wcu/wcuThumb1_1.png"
+                      alt="thumb"
                     />
                   </div>
                   <div className="shape">

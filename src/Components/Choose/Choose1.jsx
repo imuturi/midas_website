@@ -96,28 +96,14 @@ const Choose1 = ({
                       data-tilt
                       data-tilt-max="10"
                     >
-                      <img
-                        // src="/assets/images/advantage/advantageThumb1_1.png"
-                        alt=""
-                      />
+                      <img src="/assets/images/faq/faqThumb3_1.png" alt="adv" />
                     </div>
                     <div
                       className="thumb2 img-custom-anim-right wow fadeInRight"
                       data-wow-delay=".4s"
                       data-tilt
                       data-tilt-max="15"
-                    >
-                      <img
-                        // src="/assets/images/advantage/advantageThumb1_2.png"
-                        alt=""
-                      />
-                    </div>
-                    <div className="shape1">
-                      <img
-                        src="/assets/images/shape/advanceThumbShape1_1.png"
-                        alt="shape"
-                      />
-                    </div>
+                    ></div>
                   </div>
                 </div>
               </div>

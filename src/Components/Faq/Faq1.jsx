@@ -90,13 +90,13 @@ const Faq1 = () => {
                 <img
                   className="main-thumb  wow fadeInUp"
                   data-wow-delay=".2s"
-                  // src={FaqContent.img1}
-                  alt=""
+                  src={FaqContent.img1}
+                  alt="thumb"
                 />
                 <div className="absolute-thumb float-bob-x">
                   <img
-                    // src={FaqContent.img2}
-                    alt=""
+                    src={FaqContent.img2}
+                    alt="thumb"
                   />
                 </div>
               </div>

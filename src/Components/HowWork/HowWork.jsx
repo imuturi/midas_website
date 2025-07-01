@@ -33,6 +33,7 @@ const HowWork = () => {
                   </div>
                 </div>
               </div>
+              
               <div className="col-xl-4">
                 <div
                   className="work-process-box style1 child2 wow fadeInUp"
