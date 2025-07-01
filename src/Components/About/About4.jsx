@@ -42,7 +42,7 @@ const About4 = ({img1,img2,subtitle,title,content,FeatureList,btnname,btnurl}) =
                                         <li key={index}><img src="/assets/images/icon/checkmarkIcon.svg" alt="icon" /> {item}</li>
                                     ))}
                                     </ul>
-                                    <Link className="theme-btn wow fadeInUp" data-wow-delay=".2s" to={btnurl}>{btnname}
+                                    {/* <Link className="theme-btn wow fadeInUp" data-wow-delay=".2s" to={btnurl}>{btnname}
                                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"
                                             fill="none">
                                             <g clipPath="url(#clip0_18_41)">
@@ -56,7 +56,7 @@ const About4 = ({img1,img2,subtitle,title,content,FeatureList,btnname,btnurl}) =
                                                 </clipPath>
                                             </defs>
                                         </svg>
-                                    </Link>
+                                    </Link> */}
                                 </div>
                             </div>
                         </div>
